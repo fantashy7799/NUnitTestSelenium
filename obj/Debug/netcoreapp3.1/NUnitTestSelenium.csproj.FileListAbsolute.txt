@@ -184,7 +184,6 @@ D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\bin\Debug\netcoreap
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.csprojAssemblyReference.cache
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.AssemblyInfoInputs.cache
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.AssemblyInfo.cs
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.csproj.CoreCompileInputs.cache
@@ -192,3 +191,5 @@ D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreap
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.dll
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.pdb
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.genruntimeconfig.cache
+D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.csproj.AssemblyReference.cache
+D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.GeneratedMSBuildEditorConfig.editorconfig

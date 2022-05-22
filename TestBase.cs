@@ -14,7 +14,7 @@ namespace NUnitTestSelenium
     {
         protected IWebDriver driver ;
         //Open Browser Driver
-        IWebDriver webDriver = new ChromeDriver(@"D:\Nam4\ky 2\TPKPO\test3\driver");// 
+        IWebDriver webDriver = new ChromeDriver(@"D:\chromedriver");// 
 
 
         //Hooks in NUnit

@@ -11,7 +11,7 @@ namespace NUnitTestSelenium.Tests
     public class TestE2E
     {
         //Open Browser Driver
-        IWebDriver webDriver = new ChromeDriver(@"D:\Nam4\ky 2\TPKPO\test3\driver");
+        IWebDriver webDriver = new ChromeDriver(@"D:\chromedriver_win32");
 
         [SetUp]
         public void Setup()
@@ -83,7 +83,7 @@ namespace NUnitTestSelenium.Tests
             Assert.That(homePage.IsNoticeEmptyFielsExist, Is.True);
         }
         ///6- Login but not input data to field Username  
-       /* [Test]
+        [Test]
         public void Test6()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -93,9 +93,9 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("", "Uydinh123$");
 
             Assert.That(homePage.IsNoticeEmptyFielsExist, Is.True);
-        }*/
+        }
         //7- Login but not input data to field Pass
-        /*[Test]
+        [Test]
         public void Test7()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -105,9 +105,9 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("UyDinh", "");
 
             Assert.That(homePage.IsNoticeEmptyFielsExist, Is.True);
-        }*/
+        }
         ///8- Maxlength of field UserName when Register
-        /*[Test]
+        [Test]
         public void Test8()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -119,11 +119,11 @@ namespace NUnitTestSelenium.Tests
             //int maxLengthDefind;
 
             Assert.AreEqual(maxLength, regisPage.MaxLengthUserName());
-        }*/
+        }
         /// <summary>
         /// 9 Maxlength of field password when Register
         /// </summary>
-         /*[Test]
+         [Test]
          public void Test9()
          {
              HomePage homePage = new HomePage(webDriver);
@@ -135,7 +135,7 @@ namespace NUnitTestSelenium.Tests
              //int maxLengthDefind;
 
              Assert.AreEqual(maxLength, regisPage.MaxLengthPass());
-         }*/
+         }
 
         /*10*/
          [Test]
