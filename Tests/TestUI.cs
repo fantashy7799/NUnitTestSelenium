@@ -58,7 +58,7 @@ namespace NUnitTestSelenium.Tests
             Assert.That(homePage.IsInvalidExist, Is.True);
         }
         ///4- Login sai pass sai username
-       /* [Test]
+        [Test]
         public void Test4()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -68,7 +68,7 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("Sasuke", "Naruto");
 
             Assert.That(homePage.IsInvalidExist, Is.True);
-        }*/
+        }
 
         ///5- Login bỏ trống cả 2 trường Input 
         /*[Test]
