@@ -71,7 +71,7 @@ namespace NUnitTestSelenium.Tests
         }
 
         ///5- Login bỏ trống cả 2 trường Input 
-        /*[Test]
+        [Test]
         public void Test5()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -81,7 +81,7 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("", "");
 
             Assert.That(homePage.IsNoticeEmptyFielsExist, Is.True);
-        }*/
+        }
         ///6- Login but not input data to field Username  
        /* [Test]
         public void Test6()

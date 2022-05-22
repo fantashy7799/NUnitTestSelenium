@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "onyNYhJjDU3w8xTygIqar6LhlQAjIT9p2KxolMvjaiV8N7Q7jfIrtJcTiBnfxs8Yh5RSJGdHUBo0wjDdNSfm3Q==",
+  "dgSpecHash": "lpic4F3WGDxyVEQVfAkYEEMP7cUOwtYLWMmhIk9/ATFKJCB8CZrFPCT1WHgjdNsnCMseAW1MT5mkUMfvMrYStw==",
   "success": true,
   "projectFilePath": "D:\\Nam4\\ky 2\\TPKPO\\test3\\NUnitTestSelenium\\NUnitTestSelenium\\NUnitTestSelenium.csproj",
   "expectedPackageFiles": [
@@ -58,7 +58,10 @@
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.3.0\\system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
