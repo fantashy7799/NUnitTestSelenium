@@ -19,7 +19,7 @@ namespace NUnitTestSelenium.Tests
             webDriver.Navigate().GoToUrl("http://eaapp.somee.com/"); //navigate to the site        
         }
         /// 1- Login with correct username and pass
-      /* [Test]
+       [Test]
 
         public void Test1()
         {
@@ -30,11 +30,11 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("UyDinh", "Uydinh123$");
 
             Assert.That(homePage.IsLogOfExist, Is.True);
-        }*/
+        }
         //<summary>
         /// 2- Login incorrect Username and correct pass
         //</summary>
-        /*[Test]
+        [Test]
         public void Test2()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -44,9 +44,9 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("Uydinhh", "Uydinh123$");
 
             Assert.That(homePage.IsInvalidExist, Is.True);
-        }*/
+        }
         ///3- Login đúng Username sai pass
-        /*[Test]
+        [Test]
         public void Test3()
         {
             HomePage homePage = new HomePage(webDriver);
@@ -56,7 +56,7 @@ namespace NUnitTestSelenium.Tests
             loginPage.Login("UyDinh", "Uydinh123");
 
             Assert.That(homePage.IsInvalidExist, Is.True);
-        }*/
+        }
         ///4- Login sai pass sai username
        /* [Test]
         public void Test4()
