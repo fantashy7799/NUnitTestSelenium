@@ -193,4 +193,4 @@ D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreap
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.genruntimeconfig.cache
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.csproj.AssemblyReference.cache
 D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\obj\Debug\netcoreapp3.1\NUnitTestSelenium.GeneratedMSBuildEditorConfig.editorconfig
-D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\bin\Debug\netcoreapp3.1\driver\chromedriver.exe
+D:\Nam4\ky 2\TPKPO\test3\NUnitTestSelenium\NUnitTestSelenium\bin\Debug\netcoreapp3.1\Pages\driver\chromedriver.exe
