@@ -16,7 +16,7 @@ namespace NUnitTestSelenium.Tests
         [SetUp]
         public void Setup()
         {
-            webDriver.Navigate().GoToUrl("http://eaapp.somee.com/"); //navigate to the site        
+            webDriver.Navigate().GoToUrl("http://eaapp.somee.com/"); //navigate to the site
         }
         /// 1- Login with correct username and pass
        [Test]
