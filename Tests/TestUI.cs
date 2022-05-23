@@ -11,7 +11,7 @@ namespace NUnitTestSelenium.Tests
     public class TestE2E
     {
         //Open Browser Driver
-        IWebDriver webDriver = new ChromeDriver(@"D:\chromedriver_win32");
+        IWebDriver webDriver = new ChromeDriver(@"driver");
 
         [SetUp]
         public void Setup()
