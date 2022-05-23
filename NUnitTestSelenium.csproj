@@ -14,4 +14,10 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="99.0.4844.3500-beta" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="driver\chromedriver.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
