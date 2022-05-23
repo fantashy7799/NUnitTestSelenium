@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lpic4F3WGDxyVEQVfAkYEEMP7cUOwtYLWMmhIk9/ATFKJCB8CZrFPCT1WHgjdNsnCMseAW1MT5mkUMfvMrYStw==",
+  "dgSpecHash": "l/FVFmw0qib4UX0xMSUxcE3exqwXtHJope1OdHoh770XWaQ64ZsathOca4lE6ULH+jx03MAAff4VPdv6LnwCHQ==",
   "success": true,
   "projectFilePath": "D:\\Nam4\\ky 2\\TPKPO\\test3\\NUnitTestSelenium\\NUnitTestSelenium\\NUnitTestSelenium.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,7 @@
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
-    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.3500-beta\\selenium.webdriver.chromedriver.99.0.4844.3500-beta.nupkg.sha512",
+    "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\selenium.webdriver.chromedriver\\101.0.4951.4100\\selenium.webdriver.chromedriver.101.0.4951.4100.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Alexander D.Ace\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
